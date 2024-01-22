@@ -13,7 +13,6 @@ public class ProduceTest {
 
     @Test
     void 프로듀스_테스트() {
-
-        System.out.println("gddasdasdasadsdasdas");
+        produceController.selectColor("test", "blue", "hwiseo");
     }
 }
