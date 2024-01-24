@@ -14,6 +14,9 @@ import java.time.Duration;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
+/**
+ * consumer 설정
+ */
 @Slf4j
 @RequiredArgsConstructor
 @Component
